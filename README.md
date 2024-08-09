@@ -1,7 +1,7 @@
 # nrooks
 N-Rooks game as an environment to train AI
 
-To play:
+To play the game:
 ```bash
-pip install -r requirements.txt | python t.py
+python -m venv venv | source venv/bin/activate | pip install -r requirements.txt | python t.py
 ```
